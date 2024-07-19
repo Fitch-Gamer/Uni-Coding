@@ -1,0 +1,2 @@
+code red blue yellow green purple green red indigo red blue
+player computer
